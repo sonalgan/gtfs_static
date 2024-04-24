@@ -1,0 +1,4 @@
+pythonversion = Python 3.10.13
+nodejs = v20.12.1
+ipywidgets = 7.7.1
+jupyterlab-manager = v5.0.10
