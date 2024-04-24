@@ -1,5 +1,5 @@
-ipywidgets==7.6.5
-jupyterlab==3.2.2
+ipywidgets>=7.6.0
+jupyterlab>=3.0.0
 ipython
 numpy==1.24.2
 pandas==1.5.3
