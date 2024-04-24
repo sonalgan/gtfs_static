@@ -1,4 +1,4 @@
-ipywidgets
+ipywidgets==7.6.5
 ipython
 numpy==1.24.2
 pandas==1.5.3
