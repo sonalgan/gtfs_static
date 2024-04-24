@@ -1,9 +1,0 @@
-{
-    "engines": {
-      "node": "v20.12.1"
-    },
-    "dependencies": {
-      "ipywidgets": "^7.7.1",
-      "jupyterlab-manager": "^5.0.10"
-    }
-  }
