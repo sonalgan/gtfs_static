@@ -1,8 +1,10 @@
-jupyterlab
+jupyterlab==4.1.5
 ipython
+ipywidgets==7.7.1
 numpy==1.24.2
 pandas==1.5.3
 tqdm==4.64.0
 fileupload
 openpyxl
+jupyterlab-manager==5.0.10
 
