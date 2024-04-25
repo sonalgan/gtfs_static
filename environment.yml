@@ -3,5 +3,4 @@ channels:
   - defaults
 dependencies:
   - python=3.10.13
-  - nodejs=20.12.1
   - jupyterlab=4.1.5
